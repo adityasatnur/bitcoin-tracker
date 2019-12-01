@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
-import HomeView from "./HomeView";
+import BeforeLoadView from "./BeforeLoadView";
 
-function App() {
-  return <HomeView></HomeView>;
-}
+const App = () => {
+  return <BeforeLoadView />;
+};
 
 export default App;
