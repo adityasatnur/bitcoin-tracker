@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik:400&display=swap");
+
+.home {
+  background: linear-gradient(to right, #f50057, hsla(3, 90%, 58%, 1));
+  width: 100%;
+  font-family: "Rubik", sans-serif;
+  height: 100vh;
+  text-align: center;
+  color: #fff;
+}
+.home img {
+  width: 15rem;
+  margin: 5vh;
+}
+.home > div {
+  margin: 2vh;
+}
